@@ -1,0 +1,3 @@
+[submodule "projects/Bach-double-violin-concerto/repo"]
+	path = projects/Bach-double-violin-concerto/repo
+	url = git@github.com:FelixFourcolor/Bach-double-violin-concerto

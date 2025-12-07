@@ -248324,7 +248324,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": 0,
         "measure": {
@@ -248338,7 +248338,7 @@
         "voice": "violin-I"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": 0,
         "measure": {
@@ -248352,7 +248352,7 @@
         "voice": "violin-I"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -4,
         "measure": {
@@ -248366,7 +248366,7 @@
         "voice": "violin-II"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {
@@ -248380,7 +248380,7 @@
         "voice": "violin-II"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -6,
         "measure": {
@@ -248394,7 +248394,7 @@
         "voice": "viola"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -6,
         "measure": {
@@ -248408,7 +248408,7 @@
         "voice": "viola"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -4,
         "measure": {
@@ -248422,7 +248422,7 @@
         "voice": "viola"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {
@@ -248576,7 +248576,7 @@
         "voice": "right-hand-I"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": 2,
         "measure": {
@@ -248592,7 +248592,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -4,
         "measure": {
@@ -248606,7 +248606,7 @@
         "voice": "violin-I"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {
@@ -248620,7 +248620,7 @@
         "voice": "violin-I"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -4,
         "measure": {
@@ -248634,7 +248634,7 @@
         "voice": "violin-II"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {
@@ -248648,7 +248648,7 @@
         "voice": "violin-II"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -6,
         "measure": {
@@ -248662,7 +248662,7 @@
         "voice": "viola"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -6,
         "measure": {
@@ -248676,7 +248676,7 @@
         "voice": "viola"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -4,
         "measure": {
@@ -248690,7 +248690,7 @@
         "voice": "viola"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {
@@ -248832,7 +248832,7 @@
         "voice": "right-hand-I"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": 2,
         "measure": {
@@ -248848,7 +248848,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -4,
         "measure": {
@@ -248862,7 +248862,7 @@
         "voice": "violin-I"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {
@@ -248876,7 +248876,7 @@
         "voice": "violin-I"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -4,
         "measure": {
@@ -248890,7 +248890,7 @@
         "voice": "violin-II"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {
@@ -248904,7 +248904,7 @@
         "voice": "violin-II"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -6,
         "measure": {
@@ -248918,7 +248918,7 @@
         "voice": "viola"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -6,
         "measure": {
@@ -248932,7 +248932,7 @@
         "voice": "viola"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -4,
         "measure": {
@@ -248946,7 +248946,7 @@
         "voice": "viola"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {
@@ -249088,7 +249088,7 @@
         "voice": "right-hand-I"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": 2,
         "measure": {
@@ -249104,7 +249104,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -4,
         "measure": {
@@ -249118,7 +249118,7 @@
         "voice": "violin-I"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {
@@ -249132,7 +249132,7 @@
         "voice": "violin-I"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -4,
         "measure": {
@@ -249146,7 +249146,7 @@
         "voice": "violin-II"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {
@@ -249160,7 +249160,7 @@
         "voice": "violin-II"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -6,
         "measure": {
@@ -249174,7 +249174,7 @@
         "voice": "viola"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -6,
         "measure": {
@@ -249188,7 +249188,7 @@
         "voice": "viola"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -4,
         "measure": {
@@ -249202,7 +249202,7 @@
         "voice": "viola"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {
@@ -249344,7 +249344,7 @@
         "voice": "right-hand-I"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": 2,
         "measure": {
@@ -249360,7 +249360,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -4,
         "measure": {
@@ -249374,7 +249374,7 @@
         "voice": "violin-I"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {
@@ -249388,7 +249388,7 @@
         "voice": "violin-I"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "measure": {
           "bar": 88,
           "tick": 10
@@ -249396,7 +249396,7 @@
         "voice": "violin-II"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "measure": {
           "bar": 88,
           "tick": 10
@@ -249404,7 +249404,7 @@
         "voice": "viola"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "measure": {
           "bar": 88,
           "tick": 10
@@ -249520,7 +249520,7 @@
         "voice": "right-hand-I"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "measure": {
           "bar": 88,
           "tick": 10
@@ -249530,7 +249530,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -4,
         "measure": {
@@ -249544,7 +249544,7 @@
         "voice": "violin-I"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {
@@ -249558,7 +249558,7 @@
         "voice": "violin-I"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "measure": {
           "bar": 88,
           "tick": 11
@@ -249566,7 +249566,7 @@
         "voice": "violin-II"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "measure": {
           "bar": 88,
           "tick": 11
@@ -249574,7 +249574,7 @@
         "voice": "viola"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "measure": {
           "bar": 88,
           "tick": 11
@@ -249622,7 +249622,7 @@
         "voice": "right-hand-I"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "measure": {
           "bar": 88,
           "tick": 11
@@ -250110,7 +250110,7 @@
       {
         "delay": 2,
         "division": "L",
-        "level": 0,
+        "level": 2,
         "measure": {
           "bar": 88,
           "tick": 14
@@ -250124,7 +250124,7 @@
       {
         "delay": 2,
         "division": "R",
-        "level": 0,
+        "level": 2,
         "measure": {
           "bar": 88,
           "tick": 14
@@ -250137,9 +250137,29 @@
       },
       {
         "delay": 2,
+        "division": "L",
+        "level": 0,
         "measure": {
           "bar": 88,
           "tick": 14
+        },
+        "noteblock": {
+          "instrument": "harp",
+          "note": 10
+        },
+        "voice": "viola"
+      },
+      {
+        "delay": 2,
+        "division": "R",
+        "level": 0,
+        "measure": {
+          "bar": 88,
+          "tick": 14
+        },
+        "noteblock": {
+          "instrument": "harp",
+          "note": 10
         },
         "voice": "viola"
       },

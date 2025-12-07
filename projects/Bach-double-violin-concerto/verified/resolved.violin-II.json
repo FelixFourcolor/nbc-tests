@@ -27474,7 +27474,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -4,
         "measure": {
@@ -27488,7 +27488,7 @@
         "voice": "violin-II"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {
@@ -27504,7 +27504,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -4,
         "measure": {
@@ -27518,7 +27518,7 @@
         "voice": "violin-II"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {
@@ -27534,7 +27534,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -4,
         "measure": {
@@ -27548,7 +27548,7 @@
         "voice": "violin-II"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {
@@ -27564,7 +27564,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -4,
         "measure": {
@@ -27578,7 +27578,7 @@
         "voice": "violin-II"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {
@@ -27594,7 +27594,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "measure": {
           "bar": 88,
           "tick": 10
@@ -27604,7 +27604,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "measure": {
           "bar": 88,
           "tick": 11

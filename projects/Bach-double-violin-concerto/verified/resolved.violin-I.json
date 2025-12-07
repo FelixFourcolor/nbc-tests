@@ -28514,7 +28514,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": 0,
         "measure": {
@@ -28528,7 +28528,7 @@
         "voice": "violin-I"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": 0,
         "measure": {
@@ -28544,7 +28544,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -4,
         "measure": {
@@ -28558,7 +28558,7 @@
         "voice": "violin-I"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {
@@ -28574,7 +28574,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -4,
         "measure": {
@@ -28588,7 +28588,7 @@
         "voice": "violin-I"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {
@@ -28604,7 +28604,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -4,
         "measure": {
@@ -28618,7 +28618,7 @@
         "voice": "violin-I"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {
@@ -28634,7 +28634,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -4,
         "measure": {
@@ -28648,7 +28648,7 @@
         "voice": "violin-I"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {
@@ -28664,7 +28664,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -4,
         "measure": {
@@ -28678,7 +28678,7 @@
         "voice": "violin-I"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {

@@ -42980,7 +42980,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -6,
         "measure": {
@@ -42994,7 +42994,7 @@
         "voice": "viola"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -6,
         "measure": {
@@ -43008,7 +43008,7 @@
         "voice": "viola"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -4,
         "measure": {
@@ -43022,7 +43022,7 @@
         "voice": "viola"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {
@@ -43038,7 +43038,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -6,
         "measure": {
@@ -43052,7 +43052,7 @@
         "voice": "viola"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -6,
         "measure": {
@@ -43066,7 +43066,7 @@
         "voice": "viola"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -4,
         "measure": {
@@ -43080,7 +43080,7 @@
         "voice": "viola"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {
@@ -43096,7 +43096,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": -6,
         "measure": {
@@ -43110,7 +43110,7 @@
         "voice": "viola"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -6,
         "measure": {
@@ -43124,22 +43124,8 @@
         "voice": "viola"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
-        "level": -4,
-        "measure": {
-          "bar": 88,
-          "tick": 8
-        },
-        "noteblock": {
-          "instrument": "harp",
-          "note": 13
-        },
-        "voice": "viola"
-      },
-      {
-        "delay": 1,
-        "division": "R",
         "level": -4,
         "measure": {
           "bar": 88,
@@ -43150,58 +43136,14 @@
           "note": 13
         },
         "voice": "viola"
-      }
-    ],
-    [
-      {
-        "delay": 1,
-        "division": "L",
-        "level": -6,
-        "measure": {
-          "bar": 88,
-          "tick": 9
-        },
-        "noteblock": {
-          "instrument": "bit",
-          "note": 13
-        },
-        "voice": "viola"
       },
       {
-        "delay": 1,
-        "division": "R",
-        "level": -6,
-        "measure": {
-          "bar": 88,
-          "tick": 9
-        },
-        "noteblock": {
-          "instrument": "bit",
-          "note": 13
-        },
-        "voice": "viola"
-      },
-      {
-        "delay": 1,
-        "division": "L",
-        "level": -4,
-        "measure": {
-          "bar": 88,
-          "tick": 9
-        },
-        "noteblock": {
-          "instrument": "harp",
-          "note": 13
-        },
-        "voice": "viola"
-      },
-      {
-        "delay": 1,
+        "delay": 2,
         "division": "R",
         "level": -4,
         "measure": {
           "bar": 88,
-          "tick": 9
+          "tick": 8
         },
         "noteblock": {
           "instrument": "harp",
@@ -43212,7 +43154,65 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
+        "division": "L",
+        "level": -6,
+        "measure": {
+          "bar": 88,
+          "tick": 9
+        },
+        "noteblock": {
+          "instrument": "bit",
+          "note": 13
+        },
+        "voice": "viola"
+      },
+      {
+        "delay": 2,
+        "division": "R",
+        "level": -6,
+        "measure": {
+          "bar": 88,
+          "tick": 9
+        },
+        "noteblock": {
+          "instrument": "bit",
+          "note": 13
+        },
+        "voice": "viola"
+      },
+      {
+        "delay": 2,
+        "division": "L",
+        "level": -4,
+        "measure": {
+          "bar": 88,
+          "tick": 9
+        },
+        "noteblock": {
+          "instrument": "harp",
+          "note": 13
+        },
+        "voice": "viola"
+      },
+      {
+        "delay": 2,
+        "division": "R",
+        "level": -4,
+        "measure": {
+          "bar": 88,
+          "tick": 9
+        },
+        "noteblock": {
+          "instrument": "harp",
+          "note": 13
+        },
+        "voice": "viola"
+      }
+    ],
+    [
+      {
+        "delay": 2,
         "measure": {
           "bar": 88,
           "tick": 10
@@ -43220,7 +43220,7 @@
         "voice": "viola"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "measure": {
           "bar": 88,
           "tick": 10
@@ -43230,7 +43230,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "measure": {
           "bar": 88,
           "tick": 11
@@ -43238,7 +43238,7 @@
         "voice": "viola"
       },
       {
-        "delay": 1,
+        "delay": 2,
         "measure": {
           "bar": 88,
           "tick": 11
@@ -43346,7 +43346,7 @@
       {
         "delay": 2,
         "division": "L",
-        "level": 0,
+        "level": 2,
         "measure": {
           "bar": 88,
           "tick": 14
@@ -43360,7 +43360,7 @@
       {
         "delay": 2,
         "division": "R",
-        "level": 0,
+        "level": 2,
         "measure": {
           "bar": 88,
           "tick": 14
@@ -43373,9 +43373,29 @@
       },
       {
         "delay": 2,
+        "division": "L",
+        "level": 0,
         "measure": {
           "bar": 88,
           "tick": 14
+        },
+        "noteblock": {
+          "instrument": "harp",
+          "note": 10
+        },
+        "voice": "viola"
+      },
+      {
+        "delay": 2,
+        "division": "R",
+        "level": 0,
+        "measure": {
+          "bar": 88,
+          "tick": 14
+        },
+        "noteblock": {
+          "instrument": "harp",
+          "note": 10
         },
         "voice": "viola"
       }

@@ -41468,7 +41468,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": 2,
         "measure": {
@@ -41484,7 +41484,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": 2,
         "measure": {
@@ -41500,7 +41500,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": 2,
         "measure": {
@@ -41516,7 +41516,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "division": "L",
         "level": 2,
         "measure": {
@@ -41532,7 +41532,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "measure": {
           "bar": 88,
           "tick": 10
@@ -41542,7 +41542,7 @@
     ],
     [
       {
-        "delay": 1,
+        "delay": 2,
         "measure": {
           "bar": 88,
           "tick": 11

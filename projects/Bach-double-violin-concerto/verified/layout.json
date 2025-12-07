@@ -115128,13 +115128,13 @@
         [
           [
             {
-              "instrument": "bit",
+              "instrument": "harp",
               "note": 10
             }
           ],
           [
             {
-              "instrument": "bit",
+              "instrument": "harp",
               "note": 10
             }
           ]
@@ -115144,10 +115144,18 @@
           [
             {
               "instrument": "bit",
+              "note": 10
+            },
+            {
+              "instrument": "bit",
               "note": 16
             }
           ],
           [
+            {
+              "instrument": "bit",
+              "note": 10
+            },
             {
               "instrument": "bit",
               "note": 17

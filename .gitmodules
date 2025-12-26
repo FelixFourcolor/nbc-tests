@@ -1,3 +1,6 @@
 [submodule "projects/Bach-double-violin-concerto/repo"]
 	path = projects/Bach-double-violin-concerto/repo
 	url = git@github.com:FelixFourcolor/Bach-double-violin-concerto
+[submodule "projects/And-He-shall-purify/repo"]
+	path = projects/And-He-shall-purify/repo
+	url = git@github.com:FelixFourcolor/And-He-shall-purify
